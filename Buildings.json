@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Settler",
+        "happiness": 6,
+        "cost": 71,
+        "uniques": [
+            "Unsellable",
+            "Only available <starting from the [Classical era]>",
+            "Only available <for [City-States]>",
+            "Free [Settler] appears <in this city>",
+            "Limited to [4] per Civilization",
+            "Cost increases by [30] when built",
+            "Excess Food converted to Production when under construction",
+            "Destroyed when the city is captured"
+            ]
+    }
+]
