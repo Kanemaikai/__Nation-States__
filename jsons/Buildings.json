@@ -1,18 +1,16 @@
 [
     {
         "name": "NS Settler",
-        "happiness": 6,
-        "requiredResource": "NS City",
-        "cost": 100,
+        "happiness": 2,
+        "cost": 71,
         "uniques": [
-            "Unsellable",
             "Will not be displayed in Civilopedia",
             "Only available <starting from the [Classical era]>",
             "Only available <for [City-States]>",
             "Requires at least [2] population",
-            "Free [Settler] appears <in [Capital] cities>",
-            "Limited to [8] per Civilization",
-            "Cost increases by [50] when built",
+            "Free [Settler] appears <in this city>",
+            "Limited to [1] per Civilization",
+            "Cost increases by [30] per owned city",
             "Excess Food converted to Production when under construction",
             "Destroyed when the city is captured"
             ]

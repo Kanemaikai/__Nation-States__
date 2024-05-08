@@ -1,6 +1,7 @@
 {
     "name": "Global uniques",
     "uniques": [
-    	"Instantly provides [1] [NS City] <upon entering a new era> <for [City-States]>"
+    	"Remove [NS Settler] [in all cities] <upon entering a new era>",
+    	"[+6 Happiness] [in all cities] <for [City-States]>"
     ]
 }
