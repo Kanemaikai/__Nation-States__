@@ -1,7 +1,0 @@
-[
-    {
-        "name": "NS City", 
-        "resourceType": "Strategic",
-        "uniques": ["Not shown on world screen","Cannot be traded", "Will not be displayed in Civilopedia", "Stockpiled"]
-    }
-]
